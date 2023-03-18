@@ -1,5 +1,3 @@
-<h3 align="center">Bluvyon - Gen 4</h3>
-
 ---
 
 <p align="center">
