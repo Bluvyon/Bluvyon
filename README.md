@@ -4,7 +4,7 @@
 <a href="https://github.com/imvast"></a>
 <p align="center">
   <a href="https://vast.gay"> 
-    <img src="https://user-images.githubusercontent.com/60797067/181168985-c88eacf3-15c0-483b-85d1-ee84b674aba5.gif" />
+    <img src="https://share.creavite.co/vPYvkbP51qr8GiQl.gif" />
   </a> 
 </p>
 
