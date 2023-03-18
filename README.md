@@ -12,7 +12,7 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=Bluvyon&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
   <img alt="followers" src="https://img.shields.io/github/followers/Bluvyon?color=f429ff&style=for-the-badge&logo=github&label=Followers"/>
 </p>
-<h3 align="center">Current Known Languages: (best - least)</h3>
+<h3 align="center">Current Known Languages:</h3>
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
